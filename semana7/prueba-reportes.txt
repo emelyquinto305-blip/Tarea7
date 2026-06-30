@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor responde con una lista de los reportes registrados en formato JSON. Cada reporte incluye información como el id, el tipo y la descripción. Esto permite visualizar de manera organizada los datos almacenados y verificar que la API está funcionando correctamente.
